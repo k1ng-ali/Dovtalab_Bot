@@ -1,4 +1,3 @@
-cat requirements.txt | grep gunicorn
 aiofiles==24.1.0
 aiogram==3.18.0
 aiohappyeyeballs==2.6.1
