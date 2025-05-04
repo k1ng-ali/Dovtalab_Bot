@@ -9,8 +9,8 @@ from aiogram.enums import PollType
 from aiogram.types import PollAnswer
 from aiogram.utils.keyboard import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "7482401970:AAEBqXFwrKfh0hP7C0sT8ZswmW5ZCUFn9rA"
-CHANNEL_ID = "-1001770161076"
+TOKEN = ""
+CHANNEL_ID = ""
 RATING_FILE = "rating.json"
 
 bot = Bot(token=TOKEN)
